@@ -1,0 +1,4 @@
+PNJU/config.py
+.idea/
+PNJU/__pycache__/
+PNJU/spiders/__pycache__/
