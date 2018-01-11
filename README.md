@@ -1,9 +1,9 @@
 # PNJU
-Auto login to the school network  
+
+**Auto login to the school network**  
 
 Some really innocent code for a junior student, a little shame but it's written with the purpose of learning scrapy. That's it.
 
----
 If you want to use it:
 1. download the source code to your computer
 2. edit the pnju.bat -> change the path to where you download this simple project
